@@ -1,0 +1,3 @@
+lat/1.fst
+lat/2.fst
+lat/3.fst

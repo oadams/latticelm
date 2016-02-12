@@ -1,0 +1,4 @@
+0 1 das das 1.0
+0 1 ein ein 2.0
+1 2 Buch Buch 2.0
+1 2 Haus Haus 1.0
